@@ -2,10 +2,18 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Jaeeun_github&fontSize=70">
   <div>
-    <h3>🌱Introduction</h3>
-    <p>3년차 프론트엔드 개발자 권재은입니다.</p><br>
-    <p></p>
+    <p>안녕하세요👏👏</p>
+    <p>3년차 프론트엔드 개발자 권재은입니다.</p>
+    <p>꾸준히 성장하기 위해 노력하고 있습니다. 잘부탁드립니다!</p>
   </div>
+  <br>
+  <div>
+    <h3>🌱About Me</h3>
+      <p>💌 Jaeeun_98@naver.com</p>
+      <p>📝 <a href="https://codingirl.tistory.com/"> Tistory Link</a></p>
+      <p>📝 <a href="https://blog.naver.com/jaeeun_98"> Naver Link</a></p>
+  </div>
+  <br>
   <div>
     <h3>🌱Skill</h3>
     <div>
